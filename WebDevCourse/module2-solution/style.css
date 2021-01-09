@@ -74,7 +74,11 @@
     border: 2px solid rgb(0, 0, 0);
     padding: 0px;
   }
- 
+  
+ /* Simple Responsive Framework. */
+.row {
+  width: 100%;
+}
   
   /********** Large devices only **********/
   @media (min-width: 992px) {
